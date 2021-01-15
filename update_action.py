@@ -14,7 +14,7 @@ from setting.config import version
 logger = logging.getLogger('offline')
 
 # user = 'root'
-# password = 'Pxsj_20190408'
+# password = ''
 # host = '192.168.1.254'
 # db = 'thirdmeasuretest'
 #
